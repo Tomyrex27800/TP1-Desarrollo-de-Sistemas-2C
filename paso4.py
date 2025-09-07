@@ -21,7 +21,7 @@ df_lista_sedes = pd.read_csv(fname_lista_sedes)
 
 archivo_pbi_per_capita = './pbi-per-capita-pais.csv'
 fname_pbi_per_capita = os.path.join(archivo_pbi_per_capita)
-df_pbi_per_capita = pd.read_csv(fname_pbi_per_capita, encoding="utf-8")
+df_pbi_per_capita = pd.read_csv(fname_pbi_per_capita)
 
 
 
@@ -41,8 +41,26 @@ df_gdp_per_capita_2023 = pd.DataFrame(columns=columnas_gdp_per_capita_2023)
 
 
 
-joined_paises_1 = pd.merge(df_gdp_per_capita_2023, df_lista_sedes_datos, left_on="country_code", right_on="pais_iso_3", how="inner")
+joined_paises = pd.merge(df_pbi_per_capita, df_lista_sedes_datos, left_on="country_code", right_on="pais_iso_3", how="inner")
+for i in range(len(joined_paises)):
+    data = {
+        "country_code": joined_paises.iloc[i]['country_code'],
+        "pais": joined_paises.iloc[i]['Country Name'],
+        "region": joined_paises.iloc[i]['region_geografica']
+    }
+    df_paises.loc[i] = data # type: ignore
+df_paises = df_paises.dropna(how='all')
+
+joined_sedes = pd.merge(df_pbi_per_capita, df_lista_sedes_datos, left_on="country_code", right_on="pais_iso_3", how="inner")
+for i in range(len(joined_sedes)):
+    data = {
+        "country_code": joined_sedes.iloc[i]['country_code'],
+        "pais": joined_sedes.iloc[i]['Country Name'],
+        "region": joined_sedes.iloc[i]['region_geografica']
+    }
+    df_sedes.loc[i] = data # type: ignore
+df_sedes = df_paises.dropna(how='all')
 
 
-print(df_gdp_per_capita_2023.shape)
-print(joined_paises_1.shape)
+print(df_paises.head)
+#print(df_sedes.head)
