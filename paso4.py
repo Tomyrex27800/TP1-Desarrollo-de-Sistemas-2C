@@ -7,19 +7,19 @@ import os
 
 # fuentes de datos
 
-archivo_lista_secciones = 'lista-secciones.csv'
+archivo_lista_secciones = './lista-secciones.csv'
 fname_lista_secciones = os.path.join(archivo_lista_secciones)
 df_lista_secciones = pd.read_csv(fname_lista_secciones)
 
-archivo_lista_sedes_datos = 'lista-sedes-datos.csv'
+archivo_lista_sedes_datos = './lista-sedes-datos.csv'
 fname_lista_sedes_datos = os.path.join(archivo_lista_sedes_datos)
 df_lista_sedes_datos = pd.read_csv(fname_lista_sedes_datos)
 
-archivo_lista_sedes = 'lista-sedes.csv'
+archivo_lista_sedes = './lista-sedes.csv'
 fname_lista_sedes = os.path.join(archivo_lista_sedes)
 df_lista_sedes = pd.read_csv(fname_lista_sedes)
 
-archivo_pbi_per_capita = 'pbi-per-capita-pais.csv'
+archivo_pbi_per_capita = './pbi-per-capita-pais.csv'
 fname_pbi_per_capita = os.path.join(archivo_pbi_per_capita)
 df_pbi_per_capita = pd.read_csv(fname_pbi_per_capita, encoding="utf-8")
 
@@ -44,5 +44,5 @@ df_gdp_per_capita_2023 = pd.DataFrame(columns=columnas_gdp_per_capita_2023)
 joined_paises_1 = pd.merge(df_gdp_per_capita_2023, df_lista_sedes_datos, left_on="country_code", right_on="pais_iso_3", how="inner")
 
 
-
-print(joined_paises_1)
+print(df_gdp_per_capita_2023.shape)
+print(joined_paises_1.shape)
