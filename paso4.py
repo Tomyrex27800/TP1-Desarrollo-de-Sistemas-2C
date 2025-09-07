@@ -193,11 +193,11 @@ else:
         for m in re.finditer(r"(https?://\S+)", texto, flags=re.I):
             u = m.group(1)
             t = ("instagram" if "instagram" in u.lower() else
-                 "twitter"   if ("twitter" in u.lower() or "x.com" in u.lower()) else
-                 "facebook"  if "facebook" in u.lower() else
-                 "youtube"   if "youtu" in u.lower() else
-                 "linkedin"  if "linkedin" in u.lower() else
-                 None)
+                "twitter"   if ("twitter" in u.lower() or "x.com" in u.lower()) else
+                "facebook"  if "facebook" in u.lower() else
+                "youtube"   if "youtu" in u.lower() else
+                "linkedin"  if "linkedin" in u.lower() else
+                None)
             if t: pares.append((t,u))
         return pares
 
