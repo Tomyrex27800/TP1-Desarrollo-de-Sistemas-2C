@@ -19,9 +19,9 @@ archivo_lista_sedes = 'lista-sedes.csv'
 fname_lista_sedes = os.path.join(archivo_lista_sedes)
 df_lista_sedes = pd.read_csv(fname_lista_sedes)
 
-archivo_pbi_per_capita = 'API_NY.GDP.PCAP.CD_DS2_en_csv_v2_122367.csv'
+archivo_pbi_per_capita = 'pbi-per-capita-pais.csv'
 fname_pbi_per_capita = os.path.join(archivo_pbi_per_capita)
-df_pbi_per_capita = pd.read_csv(fname_pbi_per_capita)
+df_pbi_per_capita = pd.read_csv(fname_pbi_per_capita, encoding="utf-8")
 
 
 
@@ -41,8 +41,8 @@ df_gdp_per_capita_2023 = pd.DataFrame(columns=columnas_gdp_per_capita_2023)
 
 
 
-print(df_paises)
-print(df_sedes)
-print(df_secciones)
-print(df_redes_sociales)
-print(df_gdp_per_capita_2023)
+joined_paises_1 = pd.merge(df_gdp_per_capita_2023, df_lista_sedes_datos, left_on="country_code", right_on="pais_iso_3", how="inner")
+
+
+
+print(joined_paises_1)
