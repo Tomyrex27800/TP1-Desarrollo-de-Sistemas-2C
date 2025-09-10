@@ -1,0 +1,165 @@
+,sede_id,country_code,pais,ciudad,tipo_sede,telefono,email,sitio_web,region_geo
+0,CALEG,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Porto  Alegre,Consulado General,00  55  (51)  3321  1360,caleg@cancilleria.gov.ar,caleg.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+1,CANTO,CHL,REPÚBLICA  DE  CHILE,Antofagasta,Consulado General,+56  432643653,canto@mrecic.gov.ar  ,https://canto.cancilleria.gob.ar/,AMÉRICA  DEL  SUR
+2,CAREN,CHL,REPÚBLICA  DE  CHILE,Punta  Arenas,Consulado General,+56  61  2261532,caren@mrecic.gov.ar,https://caren.cancilleria.gob.ar/,AMÉRICA  DEL  SUR
+3,CASUN,PRY,REPÚBLICA  DEL  PARAGUAY,Asunción,Consulado General,+595 971203686,casun@mrecic.gov.ar,www.casun.mrecic.gov.ar,AMÉRICA  DEL  SUR
+4,CATLA,USA,ESTADOS UNIDOS DE AMÉRICA,Atlanta,Consulado General,+1  404  880  0805,catla@mrecic.gov.ar,www.catla.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+5,CBARC,ESP,REINO  DE  ESPAÑA,Barcelona,Consulado  General  y  Centro  de  Promoción,+1  404  880  0805,cbarc@cancilleria.gob.ar,https://cbarc.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+6,CBEIJ,CHN,REPÚBLICA  POPULAR  DE  CHINA,Beijing,Consulado General,(86-10)  8532  3921,cbeij@mrecic.gov.ar    ,www.echin.cancilleria.gov.ar,ASIA
+7,CBELO,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Belo  Horizonte,Consulado General,00  55  31  3047  5490,cbelo@mrecic.gov.ar,,AMÉRICA  DEL  SUR
+8,CBONN,DEU,REPÚBLICA  FEDERAL  DE  ALEMANIA,Bonn,Consulado General,+49  (0)  228  24  96288,cbonn@mrecic.gov.ar,cbonn.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+9,CCADI,ESP,REINO  DE  ESPAÑA,Cádiz,Consulado General,00  34  956  22  89  22,ccadi@mrecic.gov.ar,https://ccadi.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+10,CCEST,PRY,REPÚBLICA  DEL  PARAGUAY,Ciudad  del  Este,Consulado General,00  595  61  500945,ccest@mrecic.gov.ar,ccest.cancilleria.gov.ar/,AMÉRICA  DEL  SUR
+11,CCHIC,USA,Estados  Unidos  de  América,Chicago,Consulado General,00  1  312  819  2616,cchic@mrecic.gov.ar,https://cchic.cancilleria.gob.ar/,AMÉRICA  DEL  NORTE
+12,CCOCH,BOL,ESTADO  PLURINACIONAL  DE  BOLIVIA,Cochabamba,Consulado General,00  591  (4)  4255859,ccoch@cancilleria.gob.ar,https://ccoch.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+13,CCOLO,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Colonia,Consulado General,00  598  4522-2086,ccolo@mrecic.gov.ar,ccolo.mrecic.gov.ar,AMÉRICA  DEL  SUR
+14,CCONC,CHL,REPÚBLICA  DE  CHILE,Concepción,Consulado General,(56-41)  2230257,cconc@mrecic.gov.ar,http://www.cconc.mrecic.gov.ar/,AMÉRICA  DEL  SUR
+15,CCURI,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Curitiba,Consulado General,(55-41)  3029-2411,ccuri@mrecic.gov.ar,ccuri.cancilleria.gob.ar  ,AMÉRICA  DEL  SUR
+16,CENCA,PRY,REPÚBLICA  DEL  PARAGUAY,Encarnación,Consulado General,00  595-71  201  066,cenca@mrecic.gov.ar,www.cenca.mrecic.gov.ar,AMÉRICA  DEL  SUR
+17,CFBEN,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Fray  Bentos,Consulado General,(00  598)  4562  3510,cfben@mrecic.gov.ar,cfben.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+18,CFDIG,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Foz  de  Iguazu,Consulado General,00  55  (45)  3574  2969,cfdig@mrecic.gov.ar,https://cfdig.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+19,CFLOR,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Florianopolis,Consulado General,00  55  48  30243035,cflor@mrecic.gov.ar,cflor.mrecic.gov.ar,AMÉRICA  DEL  SUR
+20,CFRAN,DEU,REPÚBLICA  FEDERAL  DE  ALEMANIA,Francfort,Consulado  General  y  Centro  de  Promoción,00  49  69  27249064,cfran@mrecic.gov.ar,www.cfran.mrecic.gov.ar,EUROPA  OCCIDENTAL
+21,CGEST,TUR,REPÚBLICA DE TURQUÍA,Estambul,Consulado  General  y  Centro  de  Promoción,+90 2122431170,cgest@mrecic.gov.ar,cgest.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+22,CGMUM,IND,REPÚBLICA  DE  LA  INDIA,Mumbai,Consulado  General  y  Centro  de  Promoción,+90 2122431170,cgmum@mrecic.gov.ar,https://cgmum.cancilleria.gob.ar/,ASIA
+23,CGPAZ,BOL,ESTADO  PLURINACIONAL  DE  BOLIVIA,La  Paz,Consulado General,(591-2)  242  2175,cgpaz@mrecic.gov.ar,cgpaz.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+24,CGTEL,ISR,ESTADO  DE  ISRAEL,Herzliya,Consulado General,+972  52  246  3586,cgtel@mrecic.gov.ar,http://cgtel.mrecic.gob.ar,ASIA
+25,CGUAN,CHN,REPÚBLICA  POPULAR  DE  CHINA,Guangzhou,Consulado General,(86-20)  3888  0328,cguan@mrecic.gov.ar,cguan.cancilleria.gob.ar,ASIA
+26,CGUAY,ECU,REPÚBLICA  DEL  ECUADOR,Guayaquil,Consulado General,(593-4)  2221525,cguay@cancilleria.gov.ar,cguay.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+27,CGVAN,CAN,CANADÁ,Vancouver,Consulado General,(593-4)  2221525,cgvan@cancilleria.gob.ar,cgvan.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+28,CHAMB,DEU,REPÚBLICA  FEDERAL  DE  ALEMANIA,Hamburgo,Consulado General,00  (49-40)  4418460,chamb@mrecic.gov.ar,chamb.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+29,CHONG,CHN,REPÚBLICA  POPULAR  DE  CHINA,Hong  Kong,Consulado General,(852)  2523  3208,chong@mrecic.gob.ar,https://chong.cancilleria.gob.ar,ASIA
+30,CHOUS,USA,ESTADOS UNIDOS DE AMÉRICA,Houston,Consulado General,(001-713)  871  8935,chous@mrecic.gov.ar,www.chous.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+31,CJOHA,ZAF,REPÚBLICA  DE  SUDÁFRICA,Johannesburgo,Consulado General,00  27  11  783  9032,cjoha@mrecic.gov.ar,http://www.cjoha.mrecic.gob.ar,ÁFRICA  SUBSAHARIANA
+32,CLANG,USA,ESTADOS UNIDOS DE AMÉRICA,Los  Angeles,Consulado  General  y  Centro  de  Promoción,00  1  (323)  954  9155,clang@mrecic.gov.ar,https://clang.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+33,CLIMA,PER,REPÚBLICA  DEL  PERÚ,Lima,Consulado General,205 2100,clima@mrecic.gov.ar,https://clima.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+34,CLOND,GRB,REINO  UNIDO  DE  GRAN  BRETAÑA  E  IRLANDA  DEL  NORTE,Londres,Consulado General,(00-44)  207  3181340,clond@mrecic.gov.ar,www.clond.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+35,CMADR,ESP,REINO  DE  ESPAÑA,Madrid,Consulado General,(34)  91  402  5115,cmadr@mrecic.gov.ar,https://cmadr.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+36,CMALD,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Maldonado,Consulado General,(00598)  42221195,cmald@mrecic.gov.ar,cmald.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+37,CMALL,ESP,REINO  DE  ESPAÑA,Palma,Consulado General,0034  971  721  955,cmall@mrecic.gov.ar,cmall.mrecic.gov.ar,EUROPA  OCCIDENTAL
+38,CMDEO,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Montevideo,Consulado General,+5982  9028623,cmdeo@mrecic.gov.ar,cmdeo.mrecic.gov.ar,AMÉRICA  DEL  SUR
+39,CMEXI,MEX,ESTADOS  UNIDOS  MEXICANOS,México,Consulado General,00  52  55  5202-3680,cmexi@mrecic.gov.ar,https://cmexi.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+40,CMIAM,USA,ESTADOS UNIDOS DE AMÉRICA,Miami,Consulado  General  y  Centro  de  Promoción,+1  305  373  1889,cmiam@mrecic.gov.ar,www.cmiam.cancilleria.gov.ar,AMÉRICA  DEL  NORTE
+41,CMILA,ITA,REPÚBLICA  ITALIANA,Milan,Consulado  General  y  Centro  de  Promoción,00  39  (02)  777  294  37,cmila@cancilleria.gov.ar,cmila.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+42,CMREA,CAN,CANADÁ,Montreal,Consulado General,(1-  514)  8426582,cmrea@mrecic.gov.ar,https://cmrea.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+43,CNYOR,USA,ESTADOS UNIDOS DE AMÉRICA,Nueva  York,Consulado  General  y  Centro  de  Promoción,1  212  603  0400,cnyor@mrecic.gov.ar,https://cnyor.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+44,CPABL,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,San  Pablo,Consulado  General  y  Centro  de  Promoción,(55-11)  38979522  ,cpabl@mrecic.gov.ar,www.cpabl.mrecic.gov.ar,AMÉRICA  DEL  SUR
+45,CPAYS,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Paysandú,Consulado General,(00598)  4722  2253,cpays@mrecic.gov.ar,www.cpays.mrecic.gov.ar,AMÉRICA  DEL  SUR
+46,CPCAR,MEX,ESTADOS  UNIDOS  MEXICANOS,Playa  del  Carmen,Consulado General,+52  984  231  2321,cpcar@mrecic.gov.ar,cpcar.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+47,CPMON,CHL,REPÚBLICA  DE  CHILE,Puerto  Montt,Consulado General,(56-65)  2505290,cpmon@mrecic.gov.ar,http://cpmon.mrecic.gov.ar/,AMÉRICA  DEL  SUR
+48,CRECI,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Recife,Consulado General,+55  (81)  3131  9000  /  9001  /  9008,creci@mrecic.gov.ar,creci.mrecic.gov.ar,AMÉRICA  DEL  SUR
+49,CRIOJ,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Río  de  Janeiro,Consulado General,00  55  (21)  3850  -  8150,crioj@cancilleria.gob.ar,crioj.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+50,CROMA,ITA,REPÚBLICA  ITALIANA,Roma,Consulado General,0039  0642870023,croma@mrecic.gov.ar,www.croma.mrecic.gov.ar,EUROPA  OCCIDENTAL
+51,CSBAH,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Salvador  de  Bahia,Consulado General,00  55  (71)  3241-4863,csbah@mrecic.gov.ar,https://csbah.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+52,CSCRS,BOL,ESTADO  PLURINACIONAL  DE  BOLIVIA,Santa  Cruz,Consulado  General  y  Centro  de  Promoción,(00-  591-  3)  332  4153,cscrs@mrecic.gov.ar,https://cscrs.cancilleria.gob.ar/,AMÉRICA  DEL  SUR
+53,CSHAN,CHN,REPÚBLICA  POPULAR  DE  CHINA,Shanghái,Consulado  General  y  Centro  de  Promoción,00  86  (21)  6339  0322,cshan@mrecic.gov.ar,www.cshan.mrecic.gov.ar,ASIA
+54,CSIDN,AUS,AUSTRALIA,Sidney,Consulado General,+  61  (02)  92622933,csidn@mrecic.gov.ar,http://csidn.mrecic.gov.ar,OCEANÍA
+55,CSIGO,CHL,REPÚBLICA  DE  CHILE,Santiago,Consulado General,00  562  2582  2606,csigo@mrecic.gov.ar,www.csigo.mrecic.gov.ar,AMÉRICA  DEL  SUR
+56,CSLTO,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Salto,Consulado General,(00  598-473)  32931,cslto@mrecic.gov.ar,www.cslto.mrecic.gov.ar,AMÉRICA  DEL  SUR
+57,CTARI,BOL,ESTADO  PLURINACIONAL  DE  BOLIVIA,Tarija,Consulado General,00  591  (4)  6637707,ctari@mrecic.gov.ar,ctari.mrecic.gov.ar,AMÉRICA  DEL  SUR
+58,CTENE,ESP,REINO  DE  ESPAÑA,Tenerife,Consulado General,34922151030,ctene@mrecic.gov.ar,www.ctene.cancilleria.gov.ar,EUROPA  OCCIDENTAL
+59,CTORO,CAN,CANADÁ,Toronto,Consulado General,14169559075,ctoro@mrecic.gov.ar,www.ctoro.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+60,CURUG,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Uruguayana,Consulado General,00  55  (55)  2102-9666,curug@mrecic.gov.ar,Curug.Cancilleria.gov.ar,AMÉRICA  DEL  SUR
+61,CVALP,CHL,REPÚBLICA  DE  CHILE,Valparaíso,Consulado General,00  56  32  2213691,cvalp@cancilleria.gob.ar,cvalp.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+62,CVIGO,ESP,REINO  DE  ESPAÑA,Vigo,Consulado General,(0034)  986435822,cvigo@mrecic.gov.ar,http://cvigo.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+63,CVILL,BOL,ESTADO  PLURINACIONAL  DE  BOLIVIA,Villazón,Consulado General,00  591  (2)  5972011,,cvill.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+64,CYACU,BOL,ESTADO  PLURINACIONAL  DE  BOLIVIA,Yacuiba,Consulado General,(591  4)  6822062,cyacu@mrecic.gov.ar,https://cyacu.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+65,DIGAC,ARG,REPÚBLICA  ARGENTINA,Argentinos  en  el  exterior,Sede  Fija ,(591  4)  6822062,,cancilleria.gob.ar,AMÉRICA  DEL  SUR
+66,EALEM,DEU,REPÚBLICA  FEDERAL  DE  ALEMANIA,Berlín,Embajada,00  49  (30)  2266  89  0,ealem@cancilleria.gob.ar,https://ealem.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+67,EANGO,AGO,REPÚBLICA  DE  ANGOLA,Luanda,Embajada,00  244  222  323  286,eango@mrecic.gov.ar,eango.mrecic.gov.ar,ÁFRICA  SUBSAHARIANA
+68,EARAB,SAU,REINO  DE  ARABIA  SAUDITA,Riad,Embajada,(966-11)  4652600,earab@mrecic.gov.ar    /  secon_earab@mrecic.gov.ar  /  adm_earab@mrecic.gov.ar  /  secom_earab@mrecic.gov.ar,http://earab.mrecic.gov.ar,ASIA
+69,EARGE,DZA,REPÚBLICA  ARGELINA  DEMOCRÁTICA  Y  POPULAR,Argel,Embajada,+213  (0)  23187440,earge@cancilleria.gob.ar,https://earge.cancilleria.gob.ar/,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+70,EARME,ARM,REPÚBLICA  DE  ARMENIA,Ereván,Embajada,00374  (010)  576451,earme@mrecic.gov.ar,earme.cancilleria.gob.ar,ASIA
+71,EASIR,SYR,REPÚBLICA  ÁRABE  SIRIA,Damasco,Embajada,+963 113334167,easir@cancilleria.gob.ar,www.easir.cancilleria.gob.ar,ASIA
+72,EAUST,AUS,AUSTRALIA,Canberra,Embajada,00  61  2  62739111,eaust@mrecic.gov.ar,http://eaust.mrecic.gov.ar,OCEANÍA
+73,EAZER,AZE,REPÚBLICA  DE  AZERBAIYÁN,Baku,Embajada,+994  (12)  4935942,eazer@mrecic.gov.ar,eazer.cancilleria.gob.ar,ASIA
+74,EBANG,BGD,REPÚBLICA  POPULAR  DE  BANGLADESH,Daca,Embajada,880  255035918  ,ebang@cancilleria.gov.ar,ebang.cancilleria.gob.ar,ASIA
+75,EBARB,BRB,BARBADOS,Bridgetown,Embajada,1(246)  537-1800  /  1804,ebarb@mrecic.gov.ar,ebarb.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+76,EBELG,BEL,REINO DE BÉLGICA,Bruselas,Embajada,00  32  2  647  7812,ebelg@cancilleria.gob.ar,http://ebelg.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+77,EBOLV,BOL,ESTADO  PLURINACIONAL  DE  BOLIVIA,La  Paz,Embajada,+591  2  2417737,ebolv@mrecic.gov.ar,ebolv.mrecic.gov.ar,AMÉRICA  DEL  SUR
+78,EBRAS,BRA,REPÚBLICA  FEDERATIVA  DEL  BRASIL,Brasilia,Embajada,00  55  61  3212  7600,ebras@mrecic.gob.ar,ebras.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+79,EBULG,BGR,REPÚBLICA  DE  BULGARIA,Sofía,Embajada,00  (359  2)  971  2539,ebulg@mrecic.gov.ar,http://ebulg.mrecic.gov.ar,EUROPA  CENTRAL  Y  ORIENTAL
+80,ECANA,CAN,CANADÁ,Ottawa,Embajada,00  1  (613)  236-2351,ecana@cancilleria.gob.ar,https://ecana.cancilleria.gob.ar/,AMÉRICA  DEL  NORTE
+81,ECEUR,BEL,REINO DE BÉLGICA,Bruselas,Misión  Permanente ,(+32)  2  648  93  71,eceur@cancilleria.gob.ar,eceur.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+82,ECHES,CZE,REPÚBLICA  CHECA,Praga,Embajada,00  420  224    212  449,eches@mrecic.gov.ar,https://eches.cancilleria.gob.ar/,EUROPA  CENTRAL  Y  ORIENTAL
+83,ECHIN,CHN,REPÚBLICA  POPULAR  DE  CHINA,Beijing,Embajada,00  86  10  6532  1406,echin@mrecic.gov.ar,https://echin.cancilleria.gob.ar,ASIA
+84,ECOLO,COL,REPÚBLICA  DE  COLOMBIA,Bogotá,Embajada,+57  601  288  0900,ecolo@cancilleria.gov.ar          ,https://ecolo.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+85,ECORE,KOR,REPÚBLICA  DE  COREA,Seul,Embajada,00  82  2  796  8144,ecore@mrecic.gov.ar,https://ecore.cancilleria.gob.ar/,ASIA
+86,ECUBA,CUB,REPÚBLICA  DE  CUBA,La  Habana,Embajada,0053(7)  2042110,ecuba@mrecic.gov.ar,www.ecuba.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+87,EDINA,DNK,REINO  DE  DINAMARCA,Copenhagen,Embajada,+45  3315  8556,edina@mrecic.gob.ar,edina.mrecic.gov.ar/,EUROPA  OCCIDENTAL
+88,EDOMI,DOM,REPÚBLICA  DOMINICANA,Santo  Domingo,Embajada,(1)  8096820976,edomi@mrecic.gov.ar,edomi.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+89,EEARB,ARE,EMIRATOS  ÁRABES  UNIDOS,Abu  Dhabi,Embajada,(1)  8096820976,eearb@mrecic.gov.ar,eearb.mrecic.gov.ar,ASIA
+90,EECUA,ECU,REPÚBLICA  DEL  ECUADOR,Quito,Embajada,(593)  2256  -  2292,despacho-eecua@mrecic.gov.ar,https://eecua.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+91,EEEUU,USA,ESTADOS UNIDOS DE AMÉRICA,Wáshington,Embajada,00  1  202  238  6400,eeeuu@mrecic.gov.ar,https://eeeuu.cancilleria.gob.ar/,AMÉRICA  DEL  NORTE
+92,EEGIP,EGY,REPÚBLICA  ÁRABE  DE  EGIPTO,El  Cairo,Embajada,+20  (2)  3335-3576,eegip@cancilleria.gob.ar,eegip.cancilleria.gob.ar,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+93,EEOEA,USA,ESTADOS UNIDOS DE AMÉRICA,Wáshington,Misión  Permanente ,12023874142,eeoea@mrecic.gov.ar,www.eeoea.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+94,EESPA,ESP,REINO  DE  ESPAÑA,Madrid,Embajada,00  34  91  7710500,eespa@mrecic.gov.ar,https://eespa.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+95,EETIO,ETH,REPÚBLICA  DEMOCRÁTICA  FEDERAL  DE  ETIOPÍA,Adís  Abeba,Embajada,(251-11)  6672574,eetio@mrecic.gob.ar,https://eetio.cancilleria.gob.ar/,ÁFRICA  SUBSAHARIANA
+96,EFILI,PHL,REPÚBLICA  DE  FILIPINAS,Manila,Embajada,00  63  2  88453218,efili@mrecic.gov.ar,efili.cancilleria.gob.ar,ASIA
+97,EFINL,FIN,REPÚBLICA  DE  FINLANDIA,Helsinki,Embajada,(00358)  942428700,embajada_efinl@cancilleria.gob.ar,https://efinl.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+98,EFRAN,FRA,REPÚBLICA  FRANCESA,París,Embajada,33144052700,efran@mrecic.gov.ar,efran.mrecic.gov.ar,EUROPA  OCCIDENTAL
+99,EFRUS,RUS,FEDERACIÓN  DE  RUSIA,Moscu,Embajada,+7  495  502  1020,efrus@cancilleria.gob.ar,efrus.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+100,EGREC,GRC,REPÚBLICA  HELÉNICA,Atenas,Embajada,(30-210)  722  4710,egrec@mrecic.gov.ar,egrec.cancilleria.gov.ar,EUROPA  OCCIDENTAL
+101,EGUAT,GTM,REPÚBLICA  DE  GUATEMALA,Guatemala,Embajada,(+502)  2464  5900,eguat@mrecic.gov.ar,http://eguat.cancilleria.gov.ar/,AMÉRICA  CENTRAL  Y  CARIBE
+102,EGUYA,GUY,REPÚBLICA  COOPERATIVA  DE  GUYANA,Georgetown,Embajada,00  592  231  9521,eguya@mrecic.gov.ar,eguya.cancilleria.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+103,EHAIT,HTI,REPÚBLICA  DE  HAITÍ,Puerto  Principe,Embajada,00  509  29  40  6711  ,ehait@mrecic.gov.ar,http://ehait.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+104,EHILE,CHL,REPÚBLICA  DE  CHILE,Santiago,Embajada,11-30-81,ehile@mrecic.gov.ar,https://ehile.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+105,EHOND,HND,REPÚBLICA  DE  HONDURAS,Tegucigalpa,Embajada,(+504)  -2243-4778,ehond@cancilleria.gob.ar,ehond.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+106,EINDI,IND,REPÚBLICA  DE  LA  INDIA,Nueva  Delhi,Embajada,(91-11)  4078  1900,eindi@mrecic.gov.ar,https://eindi.cancilleria.gob.ar/,ASIA
+107,EIRAN,IRN,REPÚBLICA  ISLÁMICA  DE  IRÁN,Teherán,Embajada,00  98  21  2242  5297,eiran@mrecic.gob.ar,www.eiran.mrecic.gob.ar,ASIA
+108,EIRLA,IRL,IRLANDA,Dublin,Embajada,(353  1)  269  1546,eirla@mrecic.gov.ar,https://eirla.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+109,EISIA,IDN,REPÚBLICA  DE  INDONESIA,Yakarta,Embajada,00  62  21230  3061,eisia@mrecic.gov.ar,www.eisia.mrecic.gov.ar,ASIA
+110,EISRA,ISR,ESTADO  DE  ISRAEL,Herzliya,Embajada,(972-73)  2520800,eisra@mrecic.gov.ar,http://www.eisra.cancilleria.gov.ar/,ASIA
+111,EITAL,ITA,REPÚBLICA  ITALIANA,Roma,Embajada,(39-06)  48073300,eital@mrecic.gov.ar,https://eital.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+112,EJAMA,JAM,JAMAICA,Kingston,Embajada,00  1  (876)  926  5588,ejama@mrecic.gov.ar,www.ejama.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+113,EJAPO,JPN,JAPÓN,Tokyo,Embajada,0081  (0)  3  54207101,ejapo@mrecic.gov.ar,http:ejapo.mrecic.gov.ar,ASIA
+114,EKENY,KEN,REPÚBLICA  DE  KENYA,Nairobi,Embajada,+254  (0)  202  324  673,ekeny@cancilleria.gob.ar,https://ekeny.cancilleria.gob.ar/,ÁFRICA  SUBSAHARIANA
+115,EKUWA,KWT,ESTADO  DE  KUWAIT,Kuwait,Embajada,(965)  25213202  /  4202  /  5202,ekuwa@mrecic.gov.ar,ekuwa@mrecic.gov.ar,ASIA
+116,ELBIA,LBY,ESTADO  DE  LIBIA,Tripoli,Embajada,  +216  71  964  782,elbia@mrecic.gov.ar,https://etune.cancilleria.gob.ar/es,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+117,ELBNO,LBN,REPÚBLICA  LIBANESA,Beirut,Embajada,(  961-  1)    210  804,elbno@mrecic.gov.ar,www.elbno.mrecic.gov.ar,ASIA
+118,ELUCI,LCA,SANTA  LUCÍA,Castries,Embajada,(  961-  1)    210  804,,eluci.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+119,EMARR,MAR,REINO  DE  MARRUECOS,Rabat,Embajada,00  212  537  75  51  20,emarr@cancilleria.gob.ar,https://emarr.cancilleria.gob.ar,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+120,EMEXI,MEX,ESTADOS  UNIDOS  MEXICANOS,México,Embajada,00  52  (55)  5520  9430,emexi@mrecic.gov.ar,www.emexi.cancilleria.gob.ar,AMÉRICA  DEL  NORTE
+121,EMFAO,ITA,REPÚBLICA  ITALIANA,Roma,Misión  Permanente ,(39-06)  688.91.792,emfao@mrecic.gov.ar,emfao.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+122,EMOZA,MOZ,REPÚBLICA  DE  MOZAMBIQUE,Maputo,Embajada,+258  21  421  242/5/6,emoza@mrecic.gov.ar,https://emoza.cancilleria.gob.ar,ÁFRICA  SUBSAHARIANA
+123,EMSIA,MYS,MALASIA,Kuala  Lumpur,Embajada,(+60)  03-2144-1451,emsia@mrecic.gov.ar  ,https://emsia.cancilleria.gob.ar,ASIA
+124,EMSUR,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Montevideo,Misión  Permanente ,(  598)  2  902  8166,emsur@mrecic.gov.ar,eurug.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+125,ENAUN,USA,ESTADOS UNIDOS DE AMÉRICA,Nueva  York,Misión  Permanente ,00  1  212  688  6300,enaun@mrecic.gov.ar,enaun.mrecic.gov.ar,AMÉRICA  DEL  NORTE
+126,ENICA,NIC,REPÚBLICA  DE  NICARAGUA,Managua,Embajada,(505)  2255  0089,enica@mrecic.gov.ar,https://enica.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+127,ENIGE,NGA,REPÚBLICA  FEDERAL  DE  NIGERIA,Abuja,Embajada,00  234  (0)  707  483  2148,enige@mrecic.gov.ar,enige.cancilleria.gob.ar,ÁFRICA  SUBSAHARIANA
+128,ENORU,NOR,REINO  DE  NORUEGA,Oslo,Embajada,(0047)  22  55  24  48,enoru@mrecic.gov.ar,https://enoru.cancilleria.gob.ar/,EUROPA  OCCIDENTAL
+129,ENZEL,NZL,NUEVA  ZELANDIA,Wellington,Embajada,00  64  4  4728330,enzel@mrecic.gov.ar,https://enzel.cancilleria.gob.ar,OCEANÍA
+130,EOIRS,CHE,CONFEDERACIÓN SUIZA,Ginebra,Misión  Permanente ,0041  22  929  86  00,eoirs@mrecic.gov.ar  /  argentina@missionarg.ch,www.eoirs.cancilleria.gov.ar  ,EUROPA  OCCIDENTAL
+131,EPAKI,PAK,REPÚBLICA  ISLÁMICA  DE  PAKISTÁN,Islamabad,Embajada,92518438148,epaki@mrecic.gov.ar,epaki.cancilleria.gob.ar,ASIA
+132,EPARA,PRY,REPÚBLICA  DEL  PARAGUAY,Asunción,Embajada,00  595  21  212  320,contacto_epara@mrecic.gov.ar,epara.cancilleria.gov.ar,AMÉRICA  DEL  SUR
+133,EPBAJ,NLD,REINO  DE  LOS  PAÍSES  BAJOS,La  Haya,Embajada,0031  70  3118411        /        0031  70  3118412,epbaj@mrecic.gov.ar,www.epbaj.mrecic.gov.ar,EUROPA  OCCIDENTAL
+134,EPERU,PER,REPÚBLICA  DEL  PERÚ,Lima,Embajada,(0051-1)  4414444,eperu@mrecic.gov.ar,www.eperu.mrecic.gov.ar,AMÉRICA  DEL  SUR
+135,EPNMA,PAN,REPÚBLICA  DE  PANAMÁ,Panama,Embajada,02-28-02,epnma@mrecic.gov.ar,www.epnma.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+136,EPOLO,POL,REPÚBLICA  DE  POLONIA,Varsovia,Embajada,+48  226  176  028  /  29,epolo@mrecic.gov.ar,https://epolo.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+137,EPORT,PRT,REPÚBLICA  PORTUGUESA,Lisboa,Embajada,00  351  21  7959223  ,eport@mrecic.gov.ar,eport.mrecic.gov.ar,EUROPA  OCCIDENTAL
+138,EQATR,QAT,ESTADO  DE  QATAR,Doha,Embajada,+  974  4417  3601,eqatr@mrecic.gov.ar,eqatr.mrecic.gov.ar,ASIA
+139,ERICA,CRI,REPÚBLICA  DE  COSTA  RICA,San  José,Embajada,(506)  2234  6270,erica@mrecic.gov.ar,https://erica.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+140,ERUMA,ROU,RUMANIA,Bucarest,Embajada,(0040)  372753040,eruma@cancilleria.gob.ar,https://eruma.cancilleria.gob.ar/,EUROPA  CENTRAL  Y  ORIENTAL
+141,ERUNI,GRB,REINO  UNIDO  DE  GRAN  BRETAÑA  E  IRLANDA  DEL  NORTE,Londres,Embajada,00  44  207  318  1300,info@argentine-embassy-uk.org  ,https://eruni.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+142,ESAFR,ZAF,REPÚBLICA  DE  SUDÁFRICA,Pretoria,Embajada,00  27  12  430  3524,esafr@mrecic.gov.ar,http://esafr.mrecic.gov.ar/,ÁFRICA  SUBSAHARIANA
+143,ESALV,SLV,REPÚBLICA  DE  EL  SALVADOR,San  Salvador,Embajada,(503)  25219400,esalv@mrecic.gov.ar,https://esalv.cancilleria.gob.ar,AMÉRICA  CENTRAL  Y  CARIBE
+144,ESENE,SEN,REPÚBLICA  DE  SENEGAL,Dakar,Embajada,221  338641325,secon_esene@mrecic.gov.ar,https://esene.cancilleria.gob.ar/,ÁFRICA  SUBSAHARIANA
+145,ESERB,SRB,REPÚBLICA  DE  SERBIA,Belgrado,Embajada,(381)  11  2623  751,eserb@mrecic.gov.ar,https://eserb.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+146,ESING,SGP,REPÚBLICA  DE  SINGAPUR,Singapur,Embajada,+65  6887  9808,esing@mrecic.gov.ar,https://esing.cancilleria.gob.ar,ASIA
+147,ESSED,VAT,SANTA  SEDE,Roma,Embajada,00  39  06  686  5303,essed@mrecic.gov.ar,essed.mrecic.gov.ar,EUROPA  OCCIDENTAL
+148,ESUEC,SWE,REINO  DE  SUECIA,Estocolmo,Embajada,(0046)  86631965,esuec@mrecic.gov.ar  /  consulares_esuec@mrecic.gov.ar  /  visasesuec@mrecic.gov.ar,www.esuec.mrecic.gov.ar,EUROPA  OCCIDENTAL
+149,ESUIZ,CHE,Confederación  Suiza,Berna,Embajada,00  41  (31)  356  43  42,esuiz@mrecic.gov.ar,esuiz.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+150,ESURI,SUR,REPÚBLICA  DE  SURINAME,Paramaribo,Embajada,00  (597)  443  667,esuri@mrecic.gov.ar,esuri.cancilleria.gob.ar,AMÉRICA  DEL  SUR
+151,ETAIL,THA,REINO  DE  TAILANDIA,Bangkok,Embajada,05-31-59,etail@mrecic.gov.ar,https://etail.cancilleria.gob.ar,ASIA
+152,ETRIA,AUT,REPÚBLICA  DE  AUSTRIA,Viena,Embajada,(0043-1)  5335171,etria@mrecic.gov.ar  /  consular-etria@mrecic.gov.ar,https://etria.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+153,ETRIN,TTO,REPÚBLICA  DE  TRINIDAD  Y  TOBAGO,Puerto  España,Embajada,+1  (868)  628  7562,etrin@mrecic.gov.ar,www.etrin.mrecic.gov.ar,AMÉRICA  CENTRAL  Y  CARIBE
+154,ETUNE,TUN,REPÚBLICA  TUNECINA,Tunez,Embajada,+  (216)  71  860  122,etune@mrecic.gov.ar  ,etune.cancilleria.gob.ar,ÁFRICA  DEL  NORTE  Y  CERCANO  ORIENTE
+155,ETURQ,TUR,República  de  Türkiye,Ankara,Embajada,+90  312  4462061,eturq@mrecic.gov.ar,https://eturq.cancilleria.gob.ar,EUROPA  OCCIDENTAL
+156,EUCRA,UKR,UCRANIA,Kiev,Embajada,+38044  238  6922,eucra@mrecic.gov.ar,https://eucra.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+157,EUNES,FRA,REPÚBLICA  FRANCESA,París,Misión  Permanente ,00  33  1  4568  3442,dl.argentina@unesco-delegations.org,www.eunes.mrecic.gov.ar,EUROPA  OCCIDENTAL
+158,EUNGR,HUN,HUNGRÍA,Budapest,Embajada,06-01-26,eungr@mrecic.gov.ar      ,https://eungr.cancilleria.gob.ar,EUROPA  CENTRAL  Y  ORIENTAL
+159,EURUG,URY,REPÚBLICA  ORIENTAL  DEL  URUGUAY,Montevideo,Embajada,(+598)  2902  8166,eurug@mrecic.gov.ar,eurug.mrecic.gov.ar,AMÉRICA  DEL  SUR
+160,EVENE,VEN,REPÚBLICA  BOLIVARIANA  DE  VENEZUELA,Caracas,Embajada,0058  212  263  0285,evene@mrecic.gov.ar,http://www.evene.mrecic.gov.ar,AMÉRICA  DEL  SUR
+161,EVIET,VNM,REPÚBLICA  SOCIALISTA  DE  VIETNAM,Hanoi,Embajada,04-24-31,eviet@mrecic.gov.ar,https://eviet.cancilleria.gob.ar,ASIA
+162,OCCAT,CHN,REPÚBLICA  POPULAR  DE  CHINA,Taiwan,Oficina  Comercial ,(886-2)  2757-6578,occat@cancilleria.gov.ar,occat.mrecic.gob.ar,ASIA
+163,REPAL,PSE,ESTADO  DE  PALESTINA,Ramala,Embajada,00  970  2  241  2848,repal@mrecic.gob.ar,repal.mrecic.gov.ar,ASIA

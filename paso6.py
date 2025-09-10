@@ -2,6 +2,8 @@
 
 from modelos import df_paises, df_sedes, df_secciones, df_redes_sociales, df_gdp_per_capita_2023
 
+# Visualización de los dataframes creados
+
 print("df_paises:", df_paises.shape)
 print(df_paises.head(5))
 

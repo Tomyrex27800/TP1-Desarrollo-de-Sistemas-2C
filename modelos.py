@@ -12,19 +12,19 @@ def pick(df, opciones):
     raise ValueError(f"Falta alguna de estas columnas: {opciones}")
 
 # fuentes de datos
-archivo_lista_secciones = './lista-secciones.csv'
+archivo_lista_secciones = './TablasOriginales/lista-secciones.csv'
 fname_lista_secciones = os.path.join(archivo_lista_secciones)
 df_lista_secciones = pd.read_csv(fname_lista_secciones)
 
-archivo_lista_sedes_datos = './lista-sedes-datos.csv'
+archivo_lista_sedes_datos = './TablasOriginales/lista-sedes-datos.csv'
 fname_lista_sedes_datos = os.path.join(archivo_lista_sedes_datos)
 df_lista_sedes_datos = pd.read_csv(fname_lista_sedes_datos)
 
-archivo_lista_sedes = './lista-sedes.csv'
+archivo_lista_sedes = './TablasOriginales/lista-sedes.csv'
 fname_lista_sedes = os.path.join(archivo_lista_sedes)
 df_lista_sedes = pd.read_csv(fname_lista_sedes)
 
-archivo_pbi_per_capita = './pbi-per-capita-pais.csv'
+archivo_pbi_per_capita = './TablasOriginales/pbi-per-capita-pais.csv'
 fname_pbi_per_capita = os.path.join(archivo_pbi_per_capita)
 df_pbi_per_capita = pd.read_csv(fname_pbi_per_capita)
 
@@ -222,3 +222,22 @@ for i in range(len(df_pbi_per_capita)):
 
 # limpiar filas vacías
 df_gdp_per_capita_2023 = df_gdp_per_capita_2023.dropna(how='all')
+
+# guardar tablas limpias
+archivo_paises_limpio = './TablasLimpias/paises.csv'
+archivo_sedes_limpio = './TablasLimpias/sedes.csv'
+archivo_secciones_limpio = './TablasLimpias/secciones.csv'
+archivo_redes_sociales_limpio = './TablasLimpias/redes-sociales.csv'
+archivo_gdp_limpio = './TablasLimpias/gdp-per-capita-2023.csv'
+
+fname_paises_limpio = os.path.join(archivo_paises_limpio)
+fname_sedes_limpio = os.path.join(archivo_sedes_limpio)
+fname_secciones_limpio = os.path.join(archivo_secciones_limpio)
+fname_redes_sociales_limpio = os.path.join(archivo_redes_sociales_limpio)
+fname_gdp_limpio = os.path.join(archivo_gdp_limpio)
+
+df_paises.to_csv(fname_paises_limpio)
+df_sedes.to_csv(fname_sedes_limpio)
+df_secciones.to_csv(fname_secciones_limpio)
+df_redes_sociales.to_csv(fname_redes_sociales_limpio)
+df_gdp_per_capita_2023.to_csv(fname_gdp_limpio)

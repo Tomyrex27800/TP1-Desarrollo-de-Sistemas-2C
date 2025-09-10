@@ -1,0 +1,525 @@
+,seccion_id,sede_id,tipo_seccion
+0,1,ECHES,Sección
+1,2,ERUNI,Sección
+2,3,EHAIT,Sección
+3,4,EKENY,Sección
+4,5,ERUNI,Sección
+5,6,CNYOR,Sección
+6,7,EPBAJ,Sección
+7,8,EECUA,Sección
+8,9,ESSED,Sección
+9,10,EJAPO,Sección
+10,11,ESALV,Sección
+11,12,EGUAT,Sección
+12,13,ETAIL,Sección
+13,14,ETURQ,Sección
+14,15,EBRAS,Agregaduria  Militar
+15,16,EPORT,Sección
+16,17,CGUAY,Sección
+17,18,EBRAS,Agregaduria  Militar
+18,19,EBRAS,Agregaduria  Militar
+19,20,EBOLV,Sección
+20,21,EEEUU,Sección
+21,22,ECHIN,Sección
+22,23,EINDI,Sección
+23,24,ESURI,Sección
+24,25,EPBAJ,Agregaduria  Militar
+25,26,EPERU,Agregaduria  Militar
+26,27,EHILE,Agregaduria  Militar
+27,28,EEEUU,Sección
+28,29,EBOLV,Agregaduria  Militar
+29,30,EALEM,Agregaduria  Militar
+30,31,EFRUS,Agregaduria  Militar
+31,32,ECHIN,Agregaduria  Militar
+32,33,EISRA,Sección
+33,34,EKUWA,Sección
+34,35,EMEXI,Agregaduria  Militar
+35,36,ESAFR,Agregaduria  Militar
+36,37,ECOLO,Agregaduria  Militar
+37,38,EITAL,Agregaduria  Militar
+38,39,EINDI,Agregaduria  Militar
+39,40,ERUNI,Sección
+40,41,ERUNI,Agregaduria  Militar
+41,42,EBOLV,Sección
+42,43,EBOLV,Sección
+43,44,EECUA,Sección
+44,45,EEGIP,Agregaduria  Militar
+45,46,EHILE,Agregaduria  Militar
+46,47,EEEUU,Sección
+47,48,EHILE,Agregaduria  Militar
+48,49,CNYOR,Sección
+49,50,ETUNE,Sección
+50,51,EKENY,Sección
+51,52,ETRIA,Sección
+52,53,ECANA,Sección
+53,54,ETRIA,Sección
+54,55,ETRIA,Sección
+55,56,ETRIA,Sección
+56,57,ETRIA,Sección
+57,58,ECEUR,Sección
+58,59,ECEUR,Sección
+59,60,EEEUU,Sección
+60,61,EBRAS,Sección
+61,62,CPCAR,Sección
+62,63,EKENY,Sección  Consular
+63,64,CGUAY,Sección
+64,65,EBOLV,Sección
+65,66,EHAIT,Sección
+66,67,ETUNE,Sección
+67,68,ECOLO,Sección
+68,69,EJAPO,Sección
+69,70,EBOLV,Sección
+70,71,EKENY,Sección
+71,72,ESALV,Sección
+72,73,CGMUM,Sección
+73,74,EPBAJ,Sección
+74,75,CNYOR,Sección
+75,76,CNYOR,Sección
+76,77,EKENY,Sección
+77,78,EUNGR,Sección
+78,79,CGMUM,Sección
+79,80,EBOLV,Sección
+80,81,EMEXI,Sección
+81,82,EFILI,Sección  Consular
+82,83,EFILI,Sección
+83,84,ESSED,Sección
+84,85,ESUIZ,Sección
+85,86,EITAL,Sección
+86,87,EISRA,Sección
+87,88,ETUNE,Sección
+88,89,EBELG,Sección
+89,90,ECORE,Sección
+90,91,EESPA,Sección
+91,92,EINDI,Sección
+92,93,EFRAN,Sección
+93,94,EUNGR,Sección
+94,95,EURUG,Sección
+95,96,EALEM,Sección
+96,97,EPNMA,Sección
+97,98,EECUA,Sección
+98,99,ECOLO,Sección
+99,100,EHILE,Sección
+100,101,EJAPO,Sección
+101,102,EBRAS,Sección
+102,103,EFRUS,Sección
+103,104,EPERU,Sección
+104,105,EBARB,Sección
+105,106,ECANA,Sección
+106,107,ESSED,Sección
+107,108,ENIGE,Sección
+108,109,EEEUU,Sección
+109,110,EISRA,Sección
+110,111,EPORT,Sección  Consular
+111,112,EPORT,Sección
+112,113,EMARR,Sección
+113,114,EPORT,Sección
+114,115,EFILI,Sección
+115,116,EFILI,Sección
+116,117,EBOLV,Sección
+117,118,EBOLV,Sección
+118,119,EMEXI,Sección
+119,120,CNYOR,Sección
+120,121,DITIC,Sección
+121,122,ERUNI,Sección
+122,123,CNYOR,Sección
+123,124,EMEXI,Sección
+124,125,EJAPO,Sección
+125,126,EKENY,Sección
+126,127,ESALV,Sección
+127,128,ETUNE,Sección
+128,129,CGMUM,Sección
+129,130,CNYOR,Sección
+130,131,EGUAT,Sección
+131,132,CNYOR,Sección
+132,133,EPBAJ,Sección
+133,134,EHILE,Sección
+134,135,EFILI,Sección
+135,136,ETRIN,Sección
+136,137,EALEM,Sección
+137,138,CBARC,Sección
+138,139,EDOMI,Sección
+139,140,CCONC,Sección
+140,141,EBARB,Sección
+141,142,EKUWA,Sección
+142,143,ESUEC,Sección
+143,144,ECANA,Sección
+144,145,ESING,Sección
+145,146,EMOZA,Sección
+146,147,EEARB,Sección
+147,148,CGTEL,Sección
+148,149,EFRAN,Sección
+149,150,EITAL,Sección
+150,151,CSCRS,Sección
+151,152,ECHIN,Sección
+152,153,EEEUU,Sección
+153,154,EEGIP,Sección
+154,155,EVENE,Sección
+155,156,EDINA,Sección
+156,157,EUNGR,Sección
+157,158,EARME,Sección
+158,159,EANGO,Sección
+159,160,EESPA,Sección
+160,161,EHOND,Sección
+161,162,EPERU,Sección
+162,163,EAUST,Sección
+163,164,EARGE,Sección
+164,165,ECUBA,Sección
+165,166,CSIDN,Sección
+166,167,EISIA,Sección
+167,168,CMIAM,Sección
+168,169,ECOLO,Sección
+169,170,EHILE,Sección
+170,171,ENIGE,Sección
+171,172,ESURI,Sección
+172,173,ECEUR,Sección
+173,174,EPNMA,Sección
+174,175,EINDI,Sección
+175,176,ESERB,Sección
+176,177,EMARR,Sección
+177,178,ELBNO,Sección
+178,179,ECORE,Sección
+179,180,EMEXI,Sección
+180,181,CMILA,Sección
+181,182,EMEXI,Sección
+182,183,CSCRS,Sección
+183,184,EEGIP,Sección
+184,185,EDINA,Sección
+185,186,EURUG,Sección
+186,187,CURUG,Sección
+187,188,CSIDN,Sección
+188,189,EPOLO,Sección
+189,190,EHOND,Sección
+190,191,EPBAJ,Sección
+191,192,ESALV,Sección
+192,193,CMIAM,Sección
+193,194,EFINL,Sección
+194,195,CBELO,Sección
+195,196,EAUST,Sección
+196,197,CBARC,Sección
+197,198,EFRUS,Sección
+198,199,EBARB,Sección
+199,200,EINDI,Sección  Consular
+200,201,CGMUM,Sección
+201,202,CRIOJ,Sección
+202,203,ESING,Sección
+203,204,CSIDN,Sección
+204,205,CSIDN,Sección
+205,206,EETIO,Sección  Consular
+206,207,EALEM,Sección
+207,208,EINDI,Sección  Consular
+208,209,ETRIN,Sección  Consular
+209,210,CGTEL,Sección
+210,211,ENORU,Sección
+211,212,EBRAS,Sección
+212,213,EFRUS,Sección
+213,214,EARGE,Sección  Consular
+214,215,EJAMA,Sección  Consular
+215,216,EECUA,Sección
+216,217,EVIET,Sección  Consular
+217,218,EARME,Sección
+218,219,EDOMI,Sección
+219,220,ENZEL,Sección
+220,221,EKUWA,Sección
+221,222,ERUMA,Sección
+222,223,EPOLO,Sección
+223,224,EASIR,Sección  Consular
+224,225,ETUNE,Sección  Consular
+225,226,EEEUU,Sección  Consular
+226,227,EIRLA,Sección  Consular
+227,228,EGREC,Sección  Consular
+228,229,EQATR,Sección  Consular
+229,230,EVENE,Sección
+230,231,EEGIP,Sección  Consular
+231,232,EFINL,Sección
+232,233,EHAIT,Sección  Consular
+233,234,EDINA,Sección  Consular
+234,235,ESERB,Sección  Consular
+235,236,EANGO,Sección  Consular
+236,237,ECHES,Sección
+237,238,ETURQ,Sección
+238,239,CCHIC,Sección  Consular
+239,240,CSCRS,Sección
+240,241,EBELG,Sección
+241,242,EEARB,Sección  Consular
+242,243,CVIGO,Sección  Consular
+243,244,ESUEC,Sección
+244,245,EPBAJ,Sección
+245,246,CFRAN,Sección
+246,247,EMSIA,Sección  Consular
+247,248,EPNMA,Sección
+248,249,EUNGR,Sección  Consular
+249,250,CGTEL,Sección  Consular
+250,251,EISIA,Sección
+251,252,ESURI,Sección
+252,253,EIRAN,Sección  Consular
+253,254,EHOND,Sección
+254,255,EFRAN,Sección
+255,256,EGUAT,Sección  Consular
+256,257,CSHAN,Sección
+257,258,EJAPO,Sección
+258,259,EUCRA,Sección  Consular
+259,260,ERICA,Sección
+260,261,CRECI,Sección  Consular
+261,262,CPABL,Sección  Consular
+262,263,ETAIL,Sección  Consular
+263,264,EMOZA,Sección  Consular
+264,265,ETRIA,Sección  Consular
+265,266,ESALV,Sección  Consular
+266,267,ESUIZ,Sección
+267,268,EAZER,Sección  Consular
+268,269,ELBNO,Sección  Consular
+269,270,EMARR,Sección  Consular
+270,271,ENICA,Sección  Consular
+271,272,ECUBA,Sección
+272,273,CBARC,Sección
+273,274,CMIAM,Sección
+274,275,CBARC,Sección
+275,276,ECHIN,Sección  Consular
+276,277,CMIAM,Sección  Consular
+277,278,CBARC,Sección  Consular
+278,279,CMIAM,Sección  Consular
+279,280,CMIAM,Sección  Consular
+280,281,CBELO,Sección  Consular
+281,282,ENIGE,Sección  Consular
+282,283,ECOLO,Sección
+283,284,ECORE,Sección  Consular
+284,285,EANGO,Sección
+285,286,ECUBA,Sección
+286,287,EBARB,Sección
+287,288,EFRAN,Sección
+288,289,EALEM,Sección
+289,290,ESAFR,Sección
+290,291,ECORE,Sección
+291,292,EESPA,Sección
+292,293,ESSED,Sección
+293,294,CBARC,Sección
+294,295,EMOZA,Sección
+295,296,CSCRS,Sección
+296,297,EMEXI,Sección
+297,298,EQATR,Sección
+298,299,ETAIL,Sección
+299,300,CRIOJ,Sección
+300,301,EALEM,Sección
+301,302,EETIO,Sección
+302,303,CMILA,Sección
+303,304,ENORU,Sección
+304,305,EECUA,Sección
+305,306,EAUST,Sección
+306,307,EARGE,Sección
+307,308,EISIA,Sección
+308,309,EKUWA,Sección
+309,310,EIRLA,Sección
+310,311,EVENE,Sección
+311,312,EEGIP,Sección
+312,313,EDINA,Sección
+313,314,EUNGR,Sección
+314,315,EHAIT,Sección
+315,316,EANGO,Sección
+316,317,ECHES,Sección
+317,318,EURUG,Sección
+318,319,ETURQ,Sección
+319,320,ECUBA,Sección
+320,321,EJAMA,Sección
+321,322,CVIGO,Sección  Consular
+322,323,CFRAN,Sección
+323,324,EJAPO,Sección
+324,325,EHOND,Sección
+325,326,ERUNI,Sección
+326,327,EGUAT,Sección
+327,328,ELBNO,Sección
+328,329,ESING,Sección
+329,330,EBRAS,Sección
+330,331,EPOLO,Sección
+331,332,ESUEC,Sección
+332,333,ECHIN,Sección
+333,334,EHILE,Sección
+334,335,CSHAN,Sección
+335,336,EGREC,Sección
+336,337,EBELG,Sección
+337,338,ESURI,Sección
+338,339,EFRAN,Sección
+339,340,ESUIZ,Sección
+340,341,EPBAJ,Sección
+341,342,EUCRA,Sección
+342,343,EIRAN,Sección
+343,344,CSIDN,Sección
+344,345,ECANA,Sección
+345,346,EEEUU,Sección
+346,347,ECORE,Sección
+347,348,ECOLO,Sección
+348,349,EAZER,Sección
+349,350,EBARB,Sección
+350,351,ESERB,Sección
+351,352,EITAL,Sección
+352,353,EPERU,Sección
+353,354,ESAFR,Sección
+354,355,EBOLV,Sección
+355,356,CGMUM,Sección
+356,357,EAZER,Sección
+357,358,ETRIA,Sección
+358,359,EMOZA,Sección
+359,360,EITAL,Sección
+360,361,EPERU,Sección
+361,362,ETRIA,Sección
+362,363,EFRUS,Sección
+363,364,EALEM,Sección
+364,365,EHAIT,Sección
+365,366,EMEXI,Sección
+366,367,EHOND,Sección
+367,368,EMOZA,Sección
+368,369,EFRUS,Sección
+369,370,CSHAN,Sección
+370,371,EURUG,Sección
+371,372,EPAKI,Sección
+372,373,EQATR,Sección
+373,374,EJAPO,Sección
+374,375,CMILA,Sección
+375,376,ELBNO,Sección
+376,377,EIRLA,Sección
+377,378,ESERB,Sección
+378,379,EBARB,Sección
+379,380,ECEUR,Sección
+380,381,EGREC,Sección
+381,382,CRIOJ,Sección
+382,383,EETIO,Sección
+383,384,EALEM,Sección
+384,385,ECHIN,Sección
+385,386,ENORU,Sección
+386,387,EFRUS,Sección
+387,388,EARGE,Sección
+388,389,EECUA,Sección
+389,390,EDOMI,Sección
+390,391,EMARR,Sección
+391,392,EEEUU,Sección
+392,393,EKUWA,Sección
+393,394,EVENE,Sección
+394,395,ENZEL,Sección
+395,396,EHAIT,Sección
+396,397,EANGO,Sección
+397,398,ECHES,Sección
+398,399,ETURQ,Sección
+399,400,CCHIC,Sección
+400,401,ENIGE,Sección
+401,402,EBELG,Sección
+402,403,EPERU,Sección
+403,404,EJAMA,Sección
+404,405,ESAFR,Sección
+405,406,CVIGO,Sección  Consular
+406,407,CFRAN,Sección
+407,408,CRECI,Sección  Consular
+408,409,ECUBA,Sección
+409,410,ETUNE,Sección
+410,411,EMSIA,Sección
+411,412,EISIA,Sección
+412,413,CSHAN,Sección
+413,414,EHILE,Sección
+414,415,EGUAT,Sección
+415,416,ERICA,Sección
+416,417,EMOZA,Sección
+417,418,ESURI,Sección
+418,419,EAZER,Sección
+419,420,EINDI,Sección  Consular
+420,421,EPNMA,Sección
+421,422,,Sección
+422,423,EIRAN,Sección
+423,424,EUCRA,Sección
+424,425,CGMUM,Sección
+425,426,ECORE,Sección
+426,427,ESING,Sección
+427,428,EESPA,Sección
+428,429,EVIET,Sección
+429,430,ESUIZ,Sección
+430,431,EEARB,Sección
+431,432,ESUEC,Sección
+432,433,ERUNI,Sección
+433,434,ECOLO,Sección
+434,435,ETAIL,Sección
+435,436,ETRIA,Sección
+436,437,EBOLV,Sección
+437,438,EFRAN,Sección
+438,439,EISRA,Sección
+439,440,ECANA,Sección
+440,441,EBRAS,Sección
+441,442,EECUA,Sección
+442,443,CSHAN,Sección
+443,444,EHOND,Sección
+444,445,ECHIN,Sección
+445,446,EFRAN,Sección
+446,447,ETRIA,Sección
+447,448,ECOLO,Sección
+448,449,EETIO,Sección
+449,450,EALEM,Sección
+450,451,ESSED,Sección
+451,452,ECHES,Sección
+452,453,ECHIN,Sección
+453,454,ESUIZ,Sección
+454,455,EARGE,Sección
+455,456,EMSIA,Sección
+456,457,EECUA,Sección
+457,458,EAUST,Sección
+458,459,EEARB,Sección
+459,460,EEEUU,Sección
+460,461,EVENE,Sección
+461,462,EEGIP,Sección
+462,463,EUNGR,Sección
+463,464,EHAIT,Sección
+464,465,ELBNO,Sección
+465,466,EANGO,Sección
+466,467,EMEXI,Sección
+467,468,EMARR,Sección
+468,469,EURUG,Sección
+469,470,EFRUS,Sección
+470,471,ESING,Sección
+471,472,EIRLA,Sección
+472,473,EISIA,Sección
+473,474,ETUNE,Sección
+474,475,ESAFR,Sección
+475,476,ECEUR,Sección
+476,477,ECOLO,Sección
+477,478,EHILE,Sección
+478,479,EPORT,Sección
+479,480,ENZEL,Sección
+480,481,ERUNI,Sección
+481,482,EISRA,Sección
+482,483,ETAIL,Sección
+483,484,ESURI,Sección
+484,485,EPBAJ,Sección
+485,486,EITAL,Sección
+486,487,EAZER,Sección
+487,488,EUCRA,Sección
+488,489,EINDI,Sección
+489,490,EBELG,Sección
+490,491,EMOZA,Sección
+491,492,EIRAN,Sección
+492,493,EBRAS,Sección
+493,494,ESUEC,Sección
+494,495,EBARB,Sección
+495,496,EPERU,Sección
+496,497,EVIET,Sección
+497,498,EESPA,Sección
+498,499,EPNMA,Sección
+499,500,EFRAN,Sección
+500,501,ECORE,Sección
+501,502,CCHIC,Sección
+502,503,CSHAN,Sección
+503,504,EECUA,Sección
+504,505,EARGE,Sección
+505,506,EESPA,Sección
+506,507,EVIET,Sección
+507,508,ECEUR,Sección
+508,509,EITAL,Sección
+509,510,DITIC,Sección
+510,511,CBARC,Sección
+511,512,EESPA,Sección
+512,513,EEEUU,Sección
+513,514,EESPA,Sección
+514,515,CSHAN,Sección
+515,516,EALEM,Sección
+516,517,EMEXI,Sección
+517,518,ETRIN,Sección
+518,519,EHILE,Sección
+519,520,ESSED,Sección
+520,521,ESSED,Sección
+521,522,CNYOR,Sección
+522,523,,
+523,524,,
